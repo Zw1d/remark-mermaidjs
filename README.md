@@ -60,7 +60,7 @@ block is removed. The function receives the following arguments:
 These options are passed to
 [`puppeteer.launch()`](https://pptr.dev/#?product=Puppeteer&show=api-puppeteerlaunchoptions).
 
-- **Note**: This options is required in Node.js. In the browser this option is unused.
+- **Note**: This option is required in Node.js. In the browser this option is unused.
 
 #### `svgo`
 
